@@ -39,15 +39,8 @@ Projeto e construção de sistemas de IA end-to-end para uso empresarial — arq
 
 ### 📌 Projetos em destaque
 
-- **[datathon-fraude](https://github.com/Mluci3/datathon-fraude)** — Detecção de fraude financeira em produção: pipeline MLOps com XGBoost (champion) e MLP (challenger), enriquecido com RAG (Gemini) para explicabilidade das decisões, avaliado com RAGAS.
-- **IARAA** — Redução do tempo de resposta técnica em agroecologia via arquitetura RAG (RAGFlow) com dois assistentes especializados: curadoria e taxonomia de 130 documentos em 5 dimensões, pipeline PDF→Markdown com enriquecimento semântico e prompt engineering dual-persona.
-- **[projeto-ml-clima](https://github.com/Mluci3/projeto-ml-clima)** — Pipeline de dados climáticos para suporte à decisão: ingestão (Tomorrow.io) → S3 → processamento (SparkML) → dashboard analítico em Streamlit.
-- **[VALE3 LSTM](https://github.com/Mluci3/lstm-vale3)** — Previsão de preço de ações como serviço: modelo LSTM servido via FastAPI, deploy em AWS Lambda com containerização (ECR) e exposição via API Gateway.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mluci3&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
+- **[Datathon Fraude](https://github.com/Mluci3/datathon-fraude)** — Detecção de fraude financeira em produção: pipeline MLOps com XGBoost (champion) e MLP (challenger), enriquecido com RAG (Gemini) para explicabilidade das decisões, avaliado com RAGAS.
+- **IARAA** — Plataforma RAG para democratizar acesso a conhecimento agroecológico disperso em documentos técnicos: arquitetura dual-persona por público, curadoria e taxonomia de 130 documentos em 5 dimensões, migração PDF→Markdown validada por ganho de performance em retrieval.
+- **[Projeto ML Clima](https://github.com/Mluci3/projeto-ml-clima)** — Pipeline de dados climáticos para suporte à decisão: ingestão (Tomorrow.io) → S3 → processamento (SparkML) → dashboard analítico em Streamlit.
+- **[Vale3 LSTM](https://github.com/Mluci3/lstm-vale3)** — Previsão de preço de ações como serviço: modelo LSTM servido via FastAPI, deploy em AWS Lambda com containerização (ECR) e exposição via API Gateway.
+- **[Claim Intelligence](https://github.com/Mluci3/claim-intelligence)** *(em desenvolvimento)* — Automação de análise de sinistros automotivos, hoje um processo manual que leva dias e gera inconsistências entre peritos. Pipeline multi-agent no Azure AI Foundry orquestrando análise de imagens de dano (AI Vision), extração de documentos (Document Intelligence), busca semântica em apólices (AI Search/RAG) e decisão fundamentada (aprovar / análise manual / negar), com trilha de auditoria completa.
