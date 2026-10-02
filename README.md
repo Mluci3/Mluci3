@@ -44,3 +44,9 @@ Projeto e construção de sistemas de IA end-to-end para uso empresarial — arq
 - **[Projeto ML Clima](https://github.com/Mluci3/projeto-ml-clima)** — Pipeline de dados climáticos para suporte à decisão: ingestão (Tomorrow.io) → S3 → processamento (SparkML) → dashboard analítico em Streamlit.
 - **[Vale3 LSTM](https://github.com/Mluci3/lstm-vale3)** — Previsão de preço de ações como serviço: modelo LSTM servido via FastAPI, deploy em AWS Lambda com containerização (ECR) e exposição via API Gateway.
 - **[Claim Intelligence](https://github.com/Mluci3/claim-intelligence)** *(em desenvolvimento)* — Automação de análise de sinistros automotivos, hoje um processo manual que leva dias e gera inconsistências entre peritos. Pipeline multi-agent no Azure AI Foundry orquestrando análise de imagens de dano (AI Vision), extração de documentos (Document Intelligence), busca semântica em apólices (AI Search/RAG) e decisão fundamentada (aprovar / análise manual / negar), com trilha de auditoria completa.
+
+---
+
+### 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-lucilene-faacocella/)
