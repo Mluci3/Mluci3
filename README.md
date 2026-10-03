@@ -39,7 +39,7 @@ Projeto e construção de sistemas de IA end-to-end para uso empresarial — arq
 
 ### 📌 Projetos em destaque
 
-- **[Datathon Fraude](https://github.com/Mluci3/datathon-fraude)** — Detecção de fraude financeira em produção: pipeline MLOps com XGBoost (champion) e MLP (challenger), enriquecido com RAG (Gemini) para explicabilidade das decisões, avaliado com RAGAS.
+- **[Datathon Fraude](https://github.com/Mluci3/datathon-fraude)** — ML Copilot para analistas de fraude: plataforma MLOps que combina um classificador XGBoost (champion) / MLP (challenger), rastreado em MLflow, com um agente ReAct (LangChain + Gemini) e RAG (Chroma) para consultar e interpretar decisões de fraude em linguagem natural. Avaliação com RAGAS e LLM-as-judge; governança com OWASP Top 10 LLM, red team e LGPD.
 - **IARAA** — Plataforma RAG para democratizar acesso a conhecimento agroecológico disperso em documentos técnicos: arquitetura dual-persona por público, curadoria e taxonomia de 130 documentos em 5 dimensões, migração PDF→Markdown validada por ganho de performance em retrieval.
 - **[Projeto ML Clima](https://github.com/Mluci3/projeto-ml-clima)** — Pipeline de dados climáticos para suporte à decisão: ingestão (Tomorrow.io) → S3 → processamento (SparkML) → dashboard analítico em Streamlit.
 - **[Vale3 LSTM](https://github.com/Mluci3/lstm-vale3)** — Previsão de preço de ações como serviço: modelo LSTM servido via FastAPI, deploy em AWS Lambda com containerização (ECR) e exposição via API Gateway.
